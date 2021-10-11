@@ -1,2 +1,2 @@
-# HA-FT-Practice-Project
-Educational practice
+# HA-FT-Practice-Project Collapsed Three-Tier Architecture
+*Educational practice
